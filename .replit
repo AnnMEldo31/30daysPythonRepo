@@ -1,2 +1,2 @@
 language = "python3"
-run = "python day6.py"
+run = "python day6_proj.py"

@@ -18,14 +18,13 @@ print()
 # Hint: you can use a for loop and two variables to keep track of the total wage and the number of employees. Then, use the two variables to calculate the average. Finally, add another loop that goes through the employees list again and prints out only those who have an hourly wage above the calculated average.
 
 total_wages = 0.0
-no_of_employees = 0
 
 for employee in employees : 
-  no_of_employees = no_of_employees + 1
-  total_wages = total_wages + (employee[1] * employee[2])
-average = total_wages / no_of_employees
+  total_wages += employee[2]
+
+average = total_wages / len(employees)
 
 print("Employees who earn above average")
 for employee in employees :
-  if (employee[1] * employee[2]) > average :
+  if employee[2] > average :
     print(employee[0])
