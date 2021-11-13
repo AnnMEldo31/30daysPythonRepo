@@ -36,8 +36,7 @@ print()
 # 3) Using one of the examples from earlier—or a solution entirely of your own—create a program that prints out every prime number between 1 and 100.
 
 # number between 1 and 100 (1 and 100 not included)
-num = 2
-while num < 100 :
+for num in range(2, 100) :
 
   # we dont care for division by 1 since all numbers are divisible by 1, so we start with 2
   div = 2
