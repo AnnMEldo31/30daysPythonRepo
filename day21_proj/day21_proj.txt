@@ -1,0 +1,10 @@
+For this project users should be able to:
+
+Create a scatter plot where the x axis is the species and the y axis is one of the other columns.
+Via a user menu, tell us the column they would like to plot in the y axis.
+Also via the menu, tell us the name of the file they would like to create to contain the final plot image.
+I would recommend tackling this project this way:
+
+Use the file [main.py](<http://main.py>) to contain the user menu.
+Create a file, such as data_storage.py, that contains functions to read the iris.csv data file.
+Create a third file, graphing.py, that contains a function that creates the scatter plot given the x and y values.
