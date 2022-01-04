@@ -1,0 +1,6 @@
+Exception: list index out of range
+	Function: itemgetter
+	Arguments: collection=[12, 14, 18, 17], identifier=5
+Exception: list index out of range
+	Function: itemgetter
+	Arguments: collection=[12, 14, 18, 17], identifier=5

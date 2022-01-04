@@ -1,0 +1,5 @@
+Rolls: 2, 2, 1, 5, 1, 4, 3, 2, 2, 4, 3, 3 | Total: 32 | Average: 2.67
+Rolls: 3, 5, 5, 2, 1, 5, 2, 4, 1, 5, 4, 1 | Total: 38 | Average: 3.17
+Rolls: 5, 5, 2, 4, 5, 2, 1, 2, 5, 2, 5, 1 | Total: 39 | Average: 3.25
+Rolls: 1, 1, 4, 4, 5, 1 | Total: 16 | Average: 2.67
+Rolls: 4, 1, 1, 5, 1, 1 | Total: 13 | Average: 2.17
